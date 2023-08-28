@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/TsParticles/static/css/main.671a7294.css",
+    "main.js": "/TsParticles/static/js/main.d8a85a29.js",
+    "static/media/logo.svg": "/TsParticles/static/media/logo.5714f8192ba0f30bcecdab4aabe6a0a2.svg",
+    "index.html": "/TsParticles/index.html",
+    "main.671a7294.css.map": "/TsParticles/static/css/main.671a7294.css.map",
+    "main.d8a85a29.js.map": "/TsParticles/static/js/main.d8a85a29.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.671a7294.css",
+    "static/js/main.d8a85a29.js"
+  ]
+}
