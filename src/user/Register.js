@@ -2,7 +2,7 @@ import React from 'react'
 
 function Register() {
   return (
-    <div>Register</div>
+    <h1 className='text-center text-light'>Register</h1>
   )
 }
 
