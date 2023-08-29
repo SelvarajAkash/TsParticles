@@ -1,6 +1,6 @@
 # Website 
 
-     - https://selvarajakash.github.io/TsParticles/
+     https://selvarajakash.github.io/TsParticles/
 
 # Getting Started with Create React App
 
