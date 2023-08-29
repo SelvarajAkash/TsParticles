@@ -9,7 +9,7 @@ export default function Background() {
   };
 
   return (
-    <div className="App">
+    <div className="App h-100">
       <Particles
         id="tsparticles"
         init={particlesInit}
