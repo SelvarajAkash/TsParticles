@@ -35,7 +35,7 @@ function Login() {
         )}
       />
 
-      <button type="submit" className="submit-button">Submit</button>
+      <button type="submit" className="submit-button btn-primary">Login</button>
     </form>
   );
 }

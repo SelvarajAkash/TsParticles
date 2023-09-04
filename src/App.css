@@ -36,10 +36,9 @@
   color: rgb(248, 1, 1);
 }
 
+/* =================================== */
 
- /* =================================== */
-
-@import url('https://rsms.me/inter/inter.css');
+@import url("https://rsms.me/inter/inter.css");
 
 body {
   width: 100%;
@@ -49,7 +48,7 @@ body {
   padding: 0;
   background: #1d2142;
   color: white;
-  font-family: 'Inter var', sans-serif;
+  font-family: "Inter var", sans-serif;
 }
 
 canvas {
@@ -80,7 +79,7 @@ canvas {
   animation-delay: 0s;
 }
 
-.mb-10{
+.mb-10 {
   margin-bottom: 200px !important;
 }
 
@@ -124,4 +123,9 @@ canvas {
   cursor: pointer;
 }
 
-
+.btn-primary {
+  box-shadow: 0 0 0 1px #428bca inset, 0 0 0 2px rgba(255, 255, 255, 0.15) inset,
+    0 8px 0 0 #357ebd, 0 8px 0 1px rgba(0, 0, 0, 0.4),
+    0 8px 8px 1px rgba(0, 0, 0, 0.5);
+  background-color: #428bca;
+}

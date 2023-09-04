@@ -91,7 +91,7 @@ function Register() {
         )}
       />
 
-      <button type="submit" className="submit-button">
+      <button type="submit" className="submit-button btn-primary">
         Register
       </button>
     </form>
